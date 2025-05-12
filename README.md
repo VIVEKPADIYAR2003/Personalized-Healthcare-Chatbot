@@ -33,6 +33,6 @@ The system uses a well-structured dataset containing:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/personalized-healthcare-chatbot.git
+   git clone https://github.com/your-username/Personalized-Healthcare-Chatbot.git
    cd personalized-healthcare-chatbot
    ```
